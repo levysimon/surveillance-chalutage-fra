@@ -1,0 +1,1 @@
+Ici on trouve les différents articles de loi et rapport sur l'etablissement de la FRA, sur les subventions de pêche durable (aucun des bateaux semblent en toucher) ainsi que sur les autorisations de peches 

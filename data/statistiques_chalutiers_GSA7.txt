@@ -1,0 +1,20 @@
+=======================================================
+ STATISTIQUES CHALUTIERS ≥ 15m (GSA7)
+=======================================================
+Nombre total de bateaux : 63
+
+--- Longueur Hors Tout (LOA - mètres) ---
+Moyenne : 23.17 m
+Médiane : 24.75 m
+Min / Max : 15.50 m / 27.40 m
+
+--- Tonnage (GT - Jauge Brute) ---
+Moyenne : 74.33 GT
+Médiane : 75.72 GT
+Min / Max : 0.00 GT / 178.50 GT
+
+--- Distribution par Tranche de Taille (LOA) ---
+  15-18m    :   2 bateaux (3.2%)
+  18-24m    :  28 bateaux (44.4%)
+  24-40m    :  33 bateaux (52.4%)
+  > 40m     :   0 bateaux (0.0%)

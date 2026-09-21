@@ -1,0 +1,47 @@
+# =============================================================================
+# Données volumineuses / sensibles — à ne jamais versionner
+# =============================================================================
+
+# Bathymétrie brute (fichiers .asc, souvent plusieurs centaines de Mo)
+*.asc
+data/profondeur/*.asc
+data/profondeur/*.csv
+
+# Données AIS brutes et traitées
+data/ais/processed/
+data/evenement de peche/
+
+# Zones générées (GeoJSON) si tu préfères les régénérer plutôt que verser en dur
+# (décommente si c'est le cas — sinon laisse commenté pour garder les zones dans le repo)
+# data/profondeur/*.geojson
+
+# Images satellite (Sentinel-2) — .tif/.png téléchargés, souvent lourds
+data/images_satellites_infractions/
+*.tif
+*.tiff
+
+# Résultats d'infractions générés (régénérables via les scripts)
+data/infractions*/
+data/sentinel2_fra_infraction.csv
+
+
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+ENV/
+
+
+# =============================================================================
+# Système / éditeurs
+# =============================================================================
+.DS_Store
+**/.DS_Store
