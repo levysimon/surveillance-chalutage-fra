@@ -56,7 +56,7 @@ Deux navires concentrent l'essentiel des cas : le **LOUIS ELIE II** (127 événe
 > **ATTENTION :**
 > Certains bateaux avec les plus d'infractions possèdent une double autorisation chalutage pélagique et chalutage démersale. Le chalutage pélagique étant autorisé toute l’année dans les deux FRA nous force à être extrêmement prudent avant d'avancer la moindre accusation. 
 > 
-> Des données VMS pourrait permettre potentiellement de mieux distinguer les types de chalutages mais il faudrait la collaboration des autorités françaises en particulier du CNSP, mais celui-ci ne repond pas à mes mails depuis plus de 5 semaines maintenant. L’autorité européenne (l’EFCA), avec qui le contact est bien plus simple, m’a explicitement dit que les données sont la propriété des autorités françaises et bien qu'ils possèdent ces données ils n'ont pas le droit de les transmettre. 
+> Des données VMS pourrait permettre potentiellement de mieux distinguer les types de chalutages mais il faudrait la collaboration des autorités françaises en particulier du CNSP, mais celui-ci ne repond pas aux sollicitations. L’autorité européenne (l’EFCA), avec qui la communication est bien plus fluide, m’a explicitement dit que les données sont la propriété des autorités françaises et bien qu'ils possèdent ces données ils n'ont pas le droit de les transmettre. 
 > 
 > Les données des logbooks seraient idéale afin de distinguer plus facilement encore la pêche pélagique de la pêche démersale. Le CNSP détient ces logbooks.
 
