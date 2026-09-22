@@ -1,5 +1,7 @@
 # Chalutage potentiel dans zone protégée française
 
+⚠️ Avertissement : Ce document relève d'une recherche exploratoire et ne constitue en aucun cas une accusation d'infraction. Les navires identifiés peuvent pratiquer le chalutage pélagique, qui est autorisé toute l'année dans ces zones
+
 ## La zone et les règles
 
 Le golfe du Lion abrite une zone de pêche à accès réglementé (FRA), créée en 2009 par la Commission générale des pêches pour la Méditerranée avec comme objectif de protéger les stocks démersaux (poissons de fond). 
