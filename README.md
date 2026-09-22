@@ -16,7 +16,7 @@ A noter que d’autres limites aussi s'appliquent aux chalutiers français en M�
 * 15 heures par jour de pêche au chalut, 18h en dérogation
 
 ### Visualisation des zones protégées
-![Effort de peche](visualisation/effort de peche/effort_peche_heatmap_zones_protegees.png) 
+![Effort de peche](visualisation/effort_de_peche/effort_peche_heatmap_zones_protegees.png) 
 
 ## Comment on suit les bateaux
 
