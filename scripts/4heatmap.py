@@ -42,7 +42,7 @@ FICHIER_SORTIE_CARTE_2 = os.path.join(
     DOSSIER_VISU, "effort_peche_heatmap_zones_protegees.png"
 )
 
-MON_EMAIL = "blpq@proton.me"
+MON_EMAIL = "fill_it@gmail.com"
 
 
 # =============================================================================
