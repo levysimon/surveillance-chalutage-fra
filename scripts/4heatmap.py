@@ -224,7 +224,7 @@ patches_legende = [
         facecolor="cyan",
         edgecolor="blue",
         alpha=0.35,
-        label="Zone FRA CGPM",
+        label="Zone FRA EST",
     )
 ]
 
@@ -234,7 +234,7 @@ if gdf_geojson is not None:
             facecolor="orange",
             edgecolor="darkred",
             alpha=0.35,
-            label="Zone 90-100m (GeoJSON)",
+            label="Zone FRA OUEST",
         )
     )
 
