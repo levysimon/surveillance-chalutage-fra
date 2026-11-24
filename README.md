@@ -1,3 +1,9 @@
+🔗 **Site web : [levysimon.github.io/chalutage-site](https://levysimon.github.io/chalutage-site/)**
+
+Enquête sur des bateaux suspectés de chalutage de fond illégal dans deux zones de pêche protégées du golfe du Lion, basée sur l'analyse de données AIS et d'images satellite.
+
+---
+
 # Chalutage potentiel dans zone protégée française
 
 ## La zone et les règles
@@ -6,11 +12,11 @@ Le golfe du Lion abrite une zone de pêche à accès réglementé (FRA), créée
 
 La mesure de 2009 gelait l'effort de pêche au niveau de 2008. Ce n'était pas un quota de captures, mais une limite d'effort, avec contrôle d'accès à la zone.
 
-En décembre 2019, la France a ajouté une fermeture saisonnière : interdiction du chalutage démersal (le chalutage de fond) du 1er novembre au 30 avril, dans la FRA et l'a étendue légèrement au nord (c’est la FRA EST actuelle qui fait 2500km^2).
+En décembre 2019, la France a ajouté une fermeture saisonnière : interdiction du chalutage démersal (le chalutage de fond) du 1er novembre au 30 avril, dans la FRA et l'a étendue légèrement au nord (c'est la FRA EST actuelle qui fait 2500km^2).
 
 Une deuxième FRA adjacente a été créée (la FRA OUEST) par la même occasion, définie par les eaux avec une profondeur entre 90 et 100m entre la FRA EST et la frontière franco-espagnole où il est interdit de pêcher 8 mois par an (entre novembre à juin), d'une surface de environ 2500km^2 aussi.
 
-A noter que d’autres limites aussi s'appliquent aux chalutiers français en Méditerranée :
+A noter que d'autres limites aussi s'appliquent aux chalutiers français en Méditerranée :
 * 250 jours de sortie maximum par an
 * 5 jours par semaine (pas le week-end, pas les jours fériés)
 * 15 heures par jour de pêche au chalut, 18h en dérogation
@@ -26,7 +32,7 @@ Un algorithme K-Means a classé les positions de chaque bateau en 4 groupes selo
 
 Une marge de sécurité de 500 mètres a été retirée à l'intérieur de la limite des FRA, pour exclure les positions ambiguës liées à l'imprécision du GPS.
 
-On définit un évènement de pêche avec au moins 3 points consécutifs à une vitesse compatible avec le chalutage, sur une durée d'au moins 2 heures à l’intérieur de la FRA.
+On définit un évènement de pêche avec au moins 3 points consécutifs à une vitesse compatible avec le chalutage, sur une durée d'au moins 2 heures à l'intérieur de la FRA.
 
 Les positions AIS suspectes ont été recoupées avec des images satellite Sentinel-2, pour confirmer visuellement la présence des navires. Des images de chalutage dans d'autres zones du golfe du Lion ont servi de point de comparaison.
 
@@ -54,9 +60,9 @@ Deux navires concentrent l'essentiel des cas : le **LOUIS ELIE II** (127 événe
 ---
 
 > **ATTENTION :**
-> Certains bateaux avec les plus d'infractions possèdent une double autorisation chalutage pélagique et chalutage démersale. Le chalutage pélagique étant autorisé toute l’année dans les deux FRA nous force à être extrêmement prudent avant d'avancer la moindre accusation. 
+> Certains bateaux avec les plus d'infractions possèdent une double autorisation chalutage pélagique et chalutage démersale. Le chalutage pélagique étant autorisé toute l'année dans les deux FRA nous force à être extrêmement prudent avant d'avancer la moindre accusation. 
 > 
-> Des données VMS pourrait permettre potentiellement de mieux distinguer les types de chalutages mais il faudrait la collaboration des autorités françaises en particulier du CNSP, mais celui-ci ne repond pas aux sollicitations. L’autorité européenne (l’EFCA), avec qui la communication est bien plus fluide, m’a explicitement dit que les données sont la propriété des autorités françaises et bien qu'ils possèdent ces données ils n'ont pas le droit de les transmettre. 
+> Des données VMS pourrait permettre potentiellement de mieux distinguer les types de chalutages mais il faudrait la collaboration des autorités françaises en particulier du CNSP, mais celui-ci ne repond pas aux sollicitations. L'autorité européenne (l'EFCA), avec qui la communication est bien plus fluide, m'a explicitement dit que les données sont la propriété des autorités françaises et bien qu'ils possèdent ces données ils n'ont pas le droit de les transmettre. 
 > 
 > Les données des logbooks seraient idéale afin de distinguer plus facilement encore la pêche pélagique de la pêche démersale. Le CNSP détient ces logbooks.
 

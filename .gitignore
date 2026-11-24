@@ -1,7 +1,7 @@
 # =============================================================================
 # Données volumineuses / sensibles — à ne jamais versionner
 # =============================================================================
-
+legal/efca-doc/*
 # Bathymétrie brute (fichiers .asc, souvent plusieurs centaines de Mo)
 *.asc
 data/profondeur/*.asc
