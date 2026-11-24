@@ -3,6 +3,10 @@
 Enquête sur des bateaux suspectés de chalutage de fond illégal dans deux zones de pêche protégées du golfe du Lion, basée sur l'analyse de données AIS et d'images satellite.
 
 ---
+<<<<<<< HEAD
+=======
+⚠️ Avertissement : Ce document relève d'une recherche exploratoire et ne constitue en aucun cas une accusation d'infraction. Les navires identifiés peuvent pratiquer le chalutage pélagique, qui est autorisé toute l'année dans ces zones
+>>>>>>> cf7c2f7b512f6c3eed9c670234d32a3c6cb95335
 
 # Chalutage potentiel dans zone protégée française
 
